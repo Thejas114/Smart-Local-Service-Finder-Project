@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ServyLocal 🚀
 
 A smart, dynamic dual-sided marketplace application solving local service discovery (plumbers, electricians, cleaners, etc.). Built as a startup-level product, it demonstrates complex frontend architecture and a premium user interface.
@@ -54,3 +55,6 @@ Feel free to interact natively with tracking features inside the mock database u
 
 ---
 *Built with ❤️ utilizing React & Vite.*
+=======
+# Smart-Local-Service-Finder-Project
+>>>>>>> cd442097ad2e161aeb68bf03a19fb0f274c707d9
