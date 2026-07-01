@@ -1,9 +1,9 @@
-<<<<<<< HEAD
-# ServyLocal 🚀
+
+ServyLocal 
 
 A smart, dynamic dual-sided marketplace application solving local service discovery (plumbers, electricians, cleaners, etc.). Built as a startup-level product, it demonstrates complex frontend architecture and a premium user interface.
 
-## Core Features
+Core Features
 *   **Dual-Sided Portals**: Independent UI flows and Dashboards for both Customers and Service Providers, seamlessly synced.
 *   **Provider Booking CRM**: Providers can toggle their real-time "Online" availability, track simulated lifetime earnings, and elegantly Accept, Reject, or Complete incoming work requests.
 *   **Client Service Discovery**: Consumers can browse local providers dynamically and book categorized time-slots natively.
@@ -11,7 +11,7 @@ A smart, dynamic dual-sided marketplace application solving local service discov
 *   **Premium Interface Design**: Hand-crafted Vanilla CSS utilizing glassmorphism themes, immersive dark mode components, and fluid micro-animations without relying on heavy framework templates.
 *   **Live Chat Simulator**: Booked consumers interact natively with an overlay mimicking active WebSocket-driven conversation delays.
 
-## Technology Stack
+Technology Stack
 *   **Frontend Framework**: React.js with Vite 
 *   **Global State Management**: React Context API (`AuthContext`)
 *   **Routing Network**: React Router DOM v6
@@ -54,7 +54,7 @@ Feel free to interact natively with tracking features inside the mock database u
 *   **Password**: `password`
 
 ---
-*Built with ❤️ utilizing React & Vite.*
+Built with  utilizing React & Vite.
 =======
 # Smart-Local-Service-Finder-Project
 >>>>>>> cd442097ad2e161aeb68bf03a19fb0f274c707d9
